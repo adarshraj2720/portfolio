@@ -21,7 +21,7 @@ export default function Navbar() {
           Contact
         </a>
         <a
-          href="https://github.com/ashikraj78/portfolio/raw/master/public/adarsh.pdf"
+          href="https://github.com/adarshraj2720/portfolio/raw/master/public/adarsh.pdf"
           className="border-solid border border-gray-200 px-3 sm:px-6 py-2 rounded-md lang_btn navi"
         >
           Resume
