@@ -1,0 +1,92 @@
+{
+  "projects": [
+
+    {
+      "title": "Blog App",
+      "details": "React based application. It is made using class component.",
+      "language": ["all", "react"],
+      "image": "lappy.webp",
+      "website": "https://blogappbyadarsh.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "13"
+    },
+    {
+      "title": "Shopping Cart",
+      "details": "React based application. It is made using class component.",
+      "language":["all", "react"],
+      "image": "lappy.webp",
+      "website": "https://shopping-carts-apps.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "12"
+    },
+    {
+      "title": "Github Battle",
+      "details": "React based application. It is made using class component.",
+      "language":["all", "react"],
+      "image": "lappy.webp",
+      "website": "https://githubbattle-app.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "11"
+    }
+    ,
+    {
+      "title": "Event-Management",
+      "details": "Express based application. It is made using Node Mongodb .",
+      "language": ["all", "express"],
+      "image": "lappy.webp",
+      "website": "https://eventsmanagementbyadarsh.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "14"
+    }
+    ,
+    {
+      "title": "Expense-Tracker",
+      "details": "Express based application. It is made using Node Mongodb .",
+      "language":["all", "express"],
+      "image": "lappy.webp",
+      "website": "https://monthlytracker-app.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "15"
+    }
+    ,
+    {
+      "title": "E-Commerce",
+      "details": "Express based application. It is made using Node Mongodb .",
+      "language": ["all", "express"],
+      "image": "lappy.webp",
+      "website": "https://e--commerce--website.herokuapp.com/",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "16"
+    }
+    ,
+    {
+      "title": "Flexor ",
+      "details": "It is fully responsive page. It is made using html-css.",
+      "language": ["all", "html-css"],
+      "image": "lappy.webp",
+      "website": "https://ashikraj78.github.io/quiz_app/.",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "17"
+    }
+    ,
+    {
+      "title": "UniTech",
+      "details": "Static based page. It is made using html-css and sass.",
+      "language": ["all", "sass"],
+      "image": "lappy.webp",
+      "website": "https://ashikraj78.github.io/quiz_app/.",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "18"
+    }
+    ,
+    {
+      "title": "Space News",
+      "details": "JavaScript based application. It is made using promises and DOM.",
+      "language": ["all", "javascript"],
+      "image": "lappy.webp",
+      "website": "https://ashikraj78.github.io/quiz_app/.",
+      "code": "https://github.com/ashikraj78/quiz_app",
+      "sku": "19"
+    }
+  ]
+}
