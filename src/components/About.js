@@ -1,5 +1,5 @@
 import React from "react";
-// import Picture from "../images/picture2.jpg";
+
 import Picture from '../images/adarshraj.jpg'
 
 export default function About() {
@@ -24,11 +24,7 @@ export default function About() {
             mentored towards a successful career.
             {/* <span className="text-gray-900 italic">the web</span> . */}
           </p>
-          {/* <p className="mb-4">
-            Shortly after graduating from School of Planning and Architecture
-            Bhopal, I worked as an interior designer where I work on a wide
-            variety of interesting and meaningful projects on a daily basis.
-          </p> */}
+
         </div>
 
         <img
