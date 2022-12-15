@@ -6,7 +6,7 @@
       "details": "React based application. It is made using class component.",
       "language": ["all", "react"],
       "image": "lappy.webp",
-      "website": "https://blogappbyadarsh.herokuapp.com/",
+      "website": "https://blogappbyadarsh.netlify.app/",
       "code": "https://github.com/adarshraj2720/blog-app",
       "sku": "13"
     },
@@ -15,7 +15,7 @@
       "details": "React based application. It is made using class component.",
       "language":["all", "react"],
       "image": "lappy.webp",
-      "website": "https://shopping-carts-apps.herokuapp.com/",
+      "website": "https://shopping-carts-apps.netlify.app",
       "code": "https://github.com/adarshraj2720/Shopping-Card",
       "sku": "12"
     },
@@ -24,7 +24,7 @@
       "details": "React based application. It is made using class component.",
       "language":["all", "react"],
       "image": "lappy.webp",
-      "website": "https://githubbattle-app.herokuapp.com/",
+      "website": "https://githubbattle-app.netlify.app/",
       "code": "https://github.com/adarshraj2720/github-battle",
       "sku": "11"
     }
@@ -34,7 +34,7 @@
       "details": "Express based application. It is made using Node Mongodb .",
       "language": ["all", "express"],
       "image": "lappy.webp",
-      "website": "https://eventsmanagementbyadarsh.herokuapp.com/",
+      "website": "https://event-managment.onrender.com/",
       "code": "https://github.com/adarshraj2720/Event-Management",
       "sku": "14"
     }
@@ -44,7 +44,7 @@
       "details": "Express based application. It is made using Node Mongodb .",
       "language":["all", "express"],
       "image": "lappy.webp",
-      "website": "https://monthlytracker-app.herokuapp.com/",
+      "website": "https://monthlytracker.onrender.com/",
       "code": "https://github.com/adarshraj2720/Expense-tracker",
       "sku": "15"
     }
@@ -54,7 +54,7 @@
       "details": "Express based application. It is made using Node Mongodb .",
       "language": ["all", "express"],
       "image": "lappy.webp",
-      "website": "https://e--commerce--website.herokuapp.com/",
+      "website": "https://e-commerce-e0gs.onrender.com/",
       "code": "https://github.com/adarshraj2720/E-commerce",
       "sku": "16"
     }
